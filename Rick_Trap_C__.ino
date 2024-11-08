@@ -1,3 +1,7 @@
+//code not ready
+//not working
+//no rickrolling
+
 #include <WiFi.h>
 #include <ESP32WebServer.h>
 
